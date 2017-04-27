@@ -1,6 +1,6 @@
 {
   "name": "jsverify-array-range",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "'jsc.array()' with min/max options.",
   "main": "index.js",
   "directories": {
